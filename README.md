@@ -1,9 +1,3 @@
-Saliency Map Generation through Lateral Inhibition Mechanism
-==================
-
-This repository provides code to replicate the paper
-**Saliency Map Generation through Lateral Inhibition Mechanism**
-
 You can use the instructions below to setup an environment with the right dependencies.
 
 ```python
